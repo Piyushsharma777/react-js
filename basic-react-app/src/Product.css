@@ -1,0 +1,12 @@
+.Product{
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 0 15px 0 15px;
+    margin-bottom: 10px;
+}
+
+.Product:hover{
+    color: rgb(0, 255, 234);
+    border: 2px solid rgb(13, 199, 53);
+
+}
